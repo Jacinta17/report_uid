@@ -1,0 +1,17 @@
+C:\Users\student\AppData\Local\Temporary Projects\report\bin\Debug\report.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\report\bin\Debug\report.exe
+C:\Users\student\AppData\Local\Temporary Projects\report\bin\Debug\report.pdb
+C:\Users\student\AppData\Local\Temporary Projects\report\bin\Debug\report.xml
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\RdlCompile.cache
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\RdlCompile.compiled
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.exe
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.xml
+C:\Users\student\AppData\Local\Temporary Projects\report\obj\Debug\report.pdb
+C:\Users\student\Desktop\UID=22116\report\report\bin\Debug\report.exe.config
+C:\Users\student\Desktop\UID=22116\report\report\obj\Debug\report.exe
+C:\Users\student\Desktop\UID=22116\report\report\obj\Debug\report.xml
+C:\Users\student\Desktop\UID=22116\report\report\obj\Debug\report.pdb

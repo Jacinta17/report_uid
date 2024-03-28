@@ -1,0 +1,7 @@
+project>add new item>data>data set>data table>right click on table and >add column
+project>add new item>reporting>report>tools>drag list in box>choose data source>OK
+drag and drop datasets from report in list box>go to design and search report veiwer>select your report>run
+
+exammmmmms
+web interface
+visual basic
